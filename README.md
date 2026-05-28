@@ -61,19 +61,7 @@ The dataset contains:
 
 ---
 
-## SQL Concepts Demonstrated
 
-* Aggregate Functions (SUM, COUNT, AVG)
-* DISTINCT
-* GROUP BY
-* ORDER BY
-* LIMIT
-* Business KPI Analysis
-* Customer Analysis
-* Product Performance Analysis
-* Regional Sales Analysis
-
----
 
 ## Analysis Performed
 
