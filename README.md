@@ -97,13 +97,21 @@ The analysis includes:
 
 ## Key Business Insights
 
-* Identified the highest-performing product categories and sub-categories.
-* Determined the regions contributing the largest share of revenue.
-* Analyzed customer segments to understand revenue contribution patterns.
-* Identified top customers and products driving business performance.
-* Evaluated order priority distribution to better understand operational demand.
+- Technology was the highest revenue-generating category with total sales of approximately $18.65M, followed by Furniture ($16.36M) and Office Supplies ($10.09M).
 
----
+- The Central region generated the highest sales revenue ($10.09M), significantly outperforming other regions.
+
+- The Consumer segment was the largest contributor to revenue with sales of approximately $22.95M, followed by Corporate ($13.91M) and Home Office ($8.24M).
+
+- England emerged as the top-performing state with sales exceeding $1.84M, followed by California ($1.61M) and New York ($1.23M).
+
+- Tom Ashbrook was the highest-value customer, generating over $203K in sales revenue.
+
+- Apple Smart Phone, Full Size was the top-selling product, generating approximately $426K in sales.
+
+- The analysis highlights strong revenue concentration within the Technology category and Consumer customer segment, indicating key drivers of overall business performance.
+
+- Regional and customer-level analysis helped identify high-value markets, products, and customers that contribute significantly to total sales revenue.
 
 ## Repository Structure
 
